@@ -1,0 +1,24 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredrhodes15/Node.js-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredrhodes15/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/jaredrhodes15/Node.js-MySQL#readme"
+}
